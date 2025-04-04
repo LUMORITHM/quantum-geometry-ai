@@ -1,0 +1,16 @@
+data:
+  polytope_path: "data/sample_polytopes.json"
+  output_dir: "outputs/"
+  cache: true
+
+vae:
+  latent_dim: 8
+  epochs: 20
+  batch_size: 32
+
+gnn:
+  layers: 3
+  hidden_dim: 64
+
+logging:
+  level: "INFO"
