@@ -1,12 +1,1 @@
-torch
-torchvision
-pytorch-lightning
-numpy
-scipy
-sympy
-pandas
-matplotlib
-networkx
-plotly
-pyyaml
-sagemath
+quantum-geometry-ai/requirements.txt
